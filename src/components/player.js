@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Trophie from './assests/clashroyal.jpg';
+import Trophie from './assests/images/clashroyal.jpg';
 
 class Player extends Component {
     constructor(props) {
