@@ -1,11 +1,10 @@
 import React,{Component} from 'react';
-import {Layout,Nav} from 'antd';
 
-class Nav extends Component{
+class home extends Component{
     render(){
         return(
             <div>
-                
+                home
             </div>
         );
     }
